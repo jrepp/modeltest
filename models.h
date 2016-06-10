@@ -6,11 +6,11 @@ public:
     Sugar() {}
     ~Sugar() {}
     
-    const char* GetTypeName() const {{
+    const char* GetTypeName() const {
         return "Sugar";
     }    
     int GetTypeId() const {
-        return 3050633;
+        return 2890889;
     }
     int GetCost() const {
         return  10;
@@ -31,11 +31,11 @@ public:
     Butter() {}
     ~Butter() {}
     
-    const char* GetTypeName() const {{
+    const char* GetTypeName() const {
         return "Butter";
     }    
     int GetTypeId() const {
-        return 3050645;
+        return 2890901;
     }
     int GetCost() const {
         return  30;
@@ -56,11 +56,11 @@ public:
     Flour() {}
     ~Flour() {}
     
-    const char* GetTypeName() const {{
+    const char* GetTypeName() const {
         return "Flour";
     }    
     int GetTypeId() const {
-        return 3050647;
+        return 2890903;
     }
     int GetCost() const {
         return  20;
@@ -81,11 +81,11 @@ public:
     Gold() {}
     ~Gold() {}
     
-    const char* GetTypeName() const {{
+    const char* GetTypeName() const {
         return "Gold";
     }    
     int GetTypeId() const {
-        return 3050649;
+        return 2890905;
     }
     int GetCost() const {
         return  1;
@@ -106,11 +106,11 @@ public:
     Cookie() {}
     ~Cookie() {}
     
-    const char* GetTypeName() const {{
+    const char* GetTypeName() const {
         return "Cookie";
     }    
     int GetTypeId() const {
-        return 3050657;
+        return 2890913;
     }
     int GetCost() const {
         return  100;
