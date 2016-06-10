@@ -45,7 +45,7 @@ public:
     %(type_name)s() {}
     ~%(type_name)s() {}
     
-    const char* GetTypeName() const {{
+    const char* GetTypeName() const {
         return "%(type_name)s";
     }    
     int GetTypeId() const {
